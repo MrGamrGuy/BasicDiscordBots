@@ -1,2 +1,2 @@
-# BasicDiscordBot
-This is just a basic Welcome Discord Bots source code.
+# Basic Discord Bots
+A Bunch Of Basic Discord Bots
