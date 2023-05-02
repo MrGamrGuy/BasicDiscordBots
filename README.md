@@ -1,3 +1,2 @@
 # Basic Discord Bots
-A Bunch Of Basic Discord Bots
-I'll Add More As The Days Come By.
+A Bunch Of Basic Discord Bots Code I Have Lying Around On My Computer
